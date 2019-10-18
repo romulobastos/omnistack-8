@@ -1,0 +1,47 @@
+dependencies: \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Volumes/Samsung_T5/Projects/cursos/rocketseat/omnistack-8/tinderdev/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

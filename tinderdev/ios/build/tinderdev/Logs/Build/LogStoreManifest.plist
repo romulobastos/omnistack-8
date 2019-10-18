@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A8AD734-9AC0-4237-B4B4-B5EF16426CD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A8AD734-9AC0-4237-B4B4-B5EF16426CD4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tinderdev project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tinderdev</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace tinderdev with scheme tinderdev and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592886948.28417301</real>
+			<key>timeStoppedRecording</key>
+			<real>592886951.79448402</real>
+			<key>title</key>
+			<string>Building workspace tinderdev with scheme tinderdev and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1A8AD734-9AC0-4237-B4B4-B5EF16426CD4</string>
+		</dict>
+		<key>4858AE96-64C8-48EB-B37B-D8788092B3B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4858AE96-64C8-48EB-B37B-D8788092B3B3.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tinderdev project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tinderdev</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace tinderdev with scheme tinderdev and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592876047.12134695</real>
+			<key>timeStoppedRecording</key>
+			<real>592876060.47136605</real>
+			<key>title</key>
+			<string>Building workspace tinderdev with scheme tinderdev and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4858AE96-64C8-48EB-B37B-D8788092B3B3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
